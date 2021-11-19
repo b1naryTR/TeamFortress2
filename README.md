@@ -1,8 +1,14 @@
+# TeamFortress2
+
 ## Depots (https://github.com/SteamRE/DepotDownloader)
 
 -app 440 -depot 441 -manifest 7707612755534478338 -username USERNAME -password PASSWORD
 
 -app 440 -depot 232251 -manifest 2174530283606128348 -username USERNAME -password PASSWORD
+
+## Alternative with a lot of bugfixes for TF2
+
+https://github.com/mastercomfig/team-comtress-2
 
 ## License
 
