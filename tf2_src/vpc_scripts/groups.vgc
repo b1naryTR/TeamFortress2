@@ -14,6 +14,11 @@ $Group "gamedlls"
 	"server"
 }
 
+$Group "enginedll"
+{
+	"engine"
+}
+
 
 $Group "modo302"
 {
